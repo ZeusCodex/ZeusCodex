@@ -1,4 +1,8 @@
-<img width="3372" height="1248" alt="zeuscodex_github_banner" src="https://github.com/user-attachments/assets/d303938d-70e3-445c-8f01-c03f23e798ea" />
+[#gh-dark-mode-only]: https://github.com/user-attachments/assets/13a68dab-ecd5-41c7-a67e-f69859c38e69
+[#gh-light-mode-only]: https://github.com/user-attachments/assets/32c3f312-26d8-4db8-ac8e-b7fc3fea4a63
+
+![ZeusCodex Banner Dark](https://github.com/user-attachments/assets/13a68dab-ecd5-41c7-a67e-f69859c38e69#gh-dark-mode-only)
+![ZeusCodex Banner Light](https://github.com/user-attachments/assets/32c3f312-26d8-4db8-ac8e-b7fc3fea4a63#gh-light-mode-only)
 
 ```bash
 ~$ whoami
