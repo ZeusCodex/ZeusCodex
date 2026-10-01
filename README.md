@@ -16,7 +16,7 @@ Focus: Breaking code before prod does.
 
 ~$ certifications
 bash: certifications: command not found
-Did you mean: 'sudo apt install pay-to-win'![Uploading zeuscodex_github_banner.png…]()
+Did you mean: 'sudo apt install pay-to-win'!
 
 ~$ rm -rf ai-slop/ windows-registry/
 [+] Purged cleanly.
